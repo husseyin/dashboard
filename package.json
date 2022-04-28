@@ -1,0 +1,24 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tailwind build src/style.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/husseyin/dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/husseyin/dashboard/issues"
+  },
+  "homepage": "https://github.com/husseyin/dashboard#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.16"
+  }
+}
